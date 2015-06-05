@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+XML_TS Trial Solution   This document is used when the app is trying to analyze the puzzle by performing trial solutions with 
+various techniques. 
+
+This file is just a sample to show the format of the file dynamically created in code. 
+-->
+<case ID="A35" Level="2" Technique="LR" Status="OKINPROD" Name="Puzzle 29 Hidden Single Two Star" 
+      CaseDefn="008900064070024039000800000691000000003000900000000143000009000920410070810002400"
+      CaseSoln="008900064070024039000800000691000000003000900000000143000009000920410070810002400">
+  <cell>0 0 9</cell>
+  <cell>0 1 7</cell>
+  <cell>0 2 4</cell>
+  <cell>0 3 1</cell>
+  <cell>0 4 123456789</cell>
+  <cell>0 5 123456789</cell>
+  <cell>0 6 123456789</cell>
+  <cell>8 8 6</cell>
+  <stats>NS 0315 Naked Single</stats>
+  <stats>HS 0037 Hidden Single</stats>
+  <stats>NP 0035 Naked Pair</stats>
+  <stats>NT 0017 Naked Triple</stats>
+  <stats>NQ 0001 And so on</stats>
+  <changes>0417</changes>
+  <status>No</status>
+  <valid>Yes</valid>
+  <reason>1SOLUTION</reason>
+</case>
