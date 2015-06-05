@@ -1,0 +1,19 @@
+﻿body {visibility:hidden;white-space:normal;page-break-inside:avoid;page-break-after:avoid}
+ .clPrintGrid {visibility:visible;white-space:pre}
+ .clPrintNormal {visibility:visible;white-space:normal}
+#idMenuDiv{
+    height: 10px;
+}
+#idButtonsDiv {
+    height: 10px;
+}
+#idFooter {   
+    page-break-after:avoid;  
+}
+/*page printing rules keep for future reference but not needed now */
+/*@page :first {
+    margin-left: 40px;
+}*/
+
+/*Note: page break before / after has no effect anywhere an the extra page being produced */
+/*Note : page margin above works but doesn't fix extra page problem */

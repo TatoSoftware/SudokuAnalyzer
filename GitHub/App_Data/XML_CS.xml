@@ -1,0 +1,30 @@
+<!--
+XML_CS  Case Solution XML 
+This file is just a sample to show the format of the file dynamically created in code.
+-->
+<case caseid ='none' 
+      source='cdf' 
+      level='none' 
+      hardest='none' 
+      reason='none' 
+      casename='none' 
+      casedef='none' 
+      casesolution='none'>
+<cell>0 0 9</cell>
+<cell>0 1 7</cell>
+<cell>0 2 4</cell>
+<cell>0 3 1</cell>
+<cell>0 4 123456789</cell>
+<cell>0 5 123456789</cell>
+<cell>0 6 123456789</cell>
+<cell>8 8 6</cell>
+<stats>NS 0315 Naked Single</stats>
+<stats>HS 0037 Hidden Single</stats>
+<stats>NP 0035 Naked Pair</stats>
+<stats>NT 0017 Naked Triple</stats>
+<stats>NQ 0001 And so on</stats>
+<changes>0417</changes>
+<status>No</status>
+<valid>Yes</valid>
+<reason>1SOLUTION</reason>
+</case>
